@@ -10,9 +10,9 @@
 </template>
 
 <script setup lang="ts">
-const router = useRouter();
+const router0 = useRouter();
 const routerJump = (name: string) => {
-  router.push({
+  router0.push({
     name,
   });
 };

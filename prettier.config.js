@@ -14,6 +14,7 @@ module.exports = {
 
   // 换行符的使用
   endOfLine: 'lf',
+  // endOfLine: 'auto',
 
   // 是否用单引号， 项目中全部使用单引号
   singleQuote: true,
